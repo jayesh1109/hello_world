@@ -1,2 +1,2 @@
 # hello_world
-just another repository
+I am learning this coding. Trying it to know whether I like it or  not.
